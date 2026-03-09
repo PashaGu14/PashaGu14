@@ -8,7 +8,7 @@
   <a href="mailto:chipasha_mulenga@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-Data and Business intelligence Analyst specializing in data-driven strategy, operational optimization, and structured problem solving. I translate complex datasets into actionable insights that inform executive decisions and measurable business outcomes. Currently advancing expertise in Microsoft Azure and applied AI, focusing on scalable cloud analytics and enterprise-ready solutions.
+Data and Business intelligence Analyst specializing in data-driven strategy, operational optimization, and structured problem solving. I translate complex datasets into actionable insights that inform executive decisions and measurable business outcomes. Currently advancing expertise in AWS and applied AI engineering, focusing on scalable cloud analytics and enterprise-ready solutions.
 
 
 ## Core Strengths
