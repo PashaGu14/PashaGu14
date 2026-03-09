@@ -14,9 +14,9 @@ Data and Business intelligence Analyst specializing in data-driven strategy, ope
 ## Core Strengths
 <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
 <img src="https://img.shields.io/badge/Python-Advanced-4479A1?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-<img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+<img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
 <img src="https://img.shields.io/badge/Excel-Advanced-4479A1?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-<img src="https://img.shields.io/badge/Tableau-Expert-F2C811?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+<img src="https://img.shields.io/badge/Tableau-Advanced-F2C811?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 <img src="https://img.shields.io/badge/BusinessCaseDevelopment-Expert-F2C811?style=flat&logo=none&logoColor=white" alt="Business Case Development Badge">
 
 
